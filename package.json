@@ -1,0 +1,14 @@
+{
+  "name": "openweathermap",
+  "version": "1.0.0",
+  "description": "basic api call to external 3rd party openweathermap.org",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soumya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
