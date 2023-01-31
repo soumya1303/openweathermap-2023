@@ -1,3 +1,4 @@
 #Ignore native node modules and npm modules
 
 node_modules/
+openweather_api_key
